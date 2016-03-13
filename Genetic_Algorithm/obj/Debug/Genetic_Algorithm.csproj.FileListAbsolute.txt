@@ -1,9 +1,0 @@
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\Genetic_Algorithm.exe.config
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.csprojResolveAssemblyReference.cache
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.csproj.GenerateResource.Cache
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\Genetic_Algorithm.exe
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\Genetic_Algorithm.pdb
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.exe
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.pdb
-E:\Visual Studio 2013\Projects\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
